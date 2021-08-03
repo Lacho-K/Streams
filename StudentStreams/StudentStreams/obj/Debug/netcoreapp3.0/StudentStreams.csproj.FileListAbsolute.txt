@@ -1,0 +1,13 @@
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\bin\Debug\netcoreapp3.0\StudentStreams.exe
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\bin\Debug\netcoreapp3.0\StudentStreams.deps.json
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\bin\Debug\netcoreapp3.0\StudentStreams.runtimeconfig.json
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\bin\Debug\netcoreapp3.0\StudentStreams.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\bin\Debug\netcoreapp3.0\StudentStreams.dll
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\bin\Debug\netcoreapp3.0\StudentStreams.pdb
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\obj\Debug\netcoreapp3.0\StudentStreams.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\obj\Debug\netcoreapp3.0\StudentStreams.AssemblyInfo.cs
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\obj\Debug\netcoreapp3.0\StudentStreams.dll
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\obj\Debug\netcoreapp3.0\StudentStreams.pdb
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\obj\Debug\netcoreapp3.0\StudentStreams.csproj.AssemblyReference.cache
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\obj\Debug\netcoreapp3.0\StudentStreams.csproj.CoreCompileInputs.cache
+C:\Users\kolev\source\repos\StudentStreams\StudentStreams\obj\Debug\netcoreapp3.0\StudentStreams.genruntimeconfig.cache
